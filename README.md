@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Rio Iskandar
+# 👋 Hi, I'm Rio
 
-- 🔭 I’m currently working on awesome web projects.
-- 🌱 I’m learning React and Laravel.
-- 📫 Reach me at: riyoru17@gmail.com
+- 🌱 I’m currently learning full-stack web development
+- 📫 Reach me at: [riyoru17@gmail.com](mailto:riyoru17@gmail.com)
 
 ## 📊 GitHub Stats:
 ![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskndrio&show_icons=true&theme=radical)
 
-## 📌 Pinned Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iskndrio&repo=nama-repo-kamu)](https://github.com/iskndrio/nama-repo-kamu)
-
+## 🎯 My Portfolio:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iskndrio&repo=portfolio-website)](https://github.com/iskndrio/portfolio-website)
