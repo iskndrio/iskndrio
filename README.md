@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning full-stack web development
 - 📚 I'm study at SMKN 4 Tasikmalaya (Software and Game Development Major)
 - 📫 Reach me at: [riyoru17@gmail.com](mailto:riyoru17@gmail.com)
-- ☠️ One Piece Fan
 
 ## 📊 GitHub Stats:
 ![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskndrio&show_icons=true&theme=radical)
