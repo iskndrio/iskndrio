@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Rio
+# 👋 Hi, I'm Rio Iskandar
 
 - 🌱 I’m currently learning full-stack web development
+- 📚 I'm study at SMKN 4 Tasikmalaya
 - 📫 Reach me at: [riyoru17@gmail.com](mailto:riyoru17@gmail.com)
 
 ## 📊 GitHub Stats:
