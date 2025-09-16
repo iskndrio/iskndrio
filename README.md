@@ -5,7 +5,8 @@
 - 📫 Reach me at: riyoru17@gmail.com
 
 ## 📊 GitHub Stats:
-![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskndrio&show_icons=true&theme=radical)
 
 ## 📌 Pinned Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iskndrio&repo=nama-repo-kamu)](https://github.com/iskndrio/nama-repo-kamu)
+
