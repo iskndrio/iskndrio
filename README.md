@@ -36,7 +36,7 @@ Currently focusing on strengthening my skills in **full-stack web development**.
 
 ## 📫 Contact Me
 - 📧 Email: [riyoru17@gmail.com](mailto:riyoru17@gmail.com)
-- 🌐 Portfolio: [iskndrio.netlify.app](https://iskndrio.netlify.app)
+- 🌐 Instagram: [@iskndrio](https://instagram.com/iskndrio)
 
 ---
 
@@ -46,7 +46,7 @@ Currently focusing on strengthening my skills in **full-stack web development**.
 ---
 
 ## 🎯 Featured Project
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=iskndrio&repo=portfolio-website)](https://github.com/iskndrio/portfolio-website)
+[![Portfolio Website](https://github-readme-stats.netlify.app/api/pin/?username=iskndrio&repo=portfolio-website)](https://iskndrio.netlify.app)
 
 ---
 
