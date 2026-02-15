@@ -1,4 +1,4 @@
-print("Hi!!, Rio) 
+# print("Hi!!, Rio) 
 
 💻 **Frontend & Full-Stack Web Developer Enthusiast**  
 🎓 Student at **SMKN 4 Tasikmalaya** — *Software and Game Development Major*
