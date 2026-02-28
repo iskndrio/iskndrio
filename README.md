@@ -19,7 +19,7 @@ Turning ideas into powerful digital experiences. 🚀
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,filamentphp" />
 </p>
 
 ### 🗄️ Database & Tools
