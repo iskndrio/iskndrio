@@ -1,53 +1,50 @@
-# print("Hi!!, Rio) 
-
-💻 **Frontend & Full-Stack Web Developer Enthusiast**  
-🎓 Student at **SMKN 4 Tasikmalaya** — *Software and Game Development Major*
-
-I’m passionate about building modern, clean, and user-friendly web applications.  
-Currently focusing on strengthening my skills in **full-stack web development**.
+<h1 align="center">Hi 👋, I'm Rio Iskandar</h1>
+<h3 align="center">🚀 Fullstack Web Developer | Laravel & React Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Full-Stack Web Development**
-- 🛠️ Interested in **Web Design, UI/UX, and Frontend Engineering**
-- 🎯 Goal: Become a professional web developer
+## 🧑‍💻 About Me
+- 🔭 Currently building web applications with Laravel & React  
+- 🌱 Learning advanced backend architecture & clean code  
+- 💡 Passionate about UI/UX and modern web design  
+- 🎯 Goal: Become a professional fullstack developer  
 
 ---
 
-## 🧰 Tech Stack
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss)
 
-### ⚙️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### ⚙️ Backend
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
 
-
----
-
-## 📫 Contact Me
-- 📧 Email: [riyoru17@gmail.com](mailto:riyoru17@gmail.com)
-- 🌐 Instagram: [@iskndrio](https://instagram.com/iskndrio)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 ---
 
-## 📊 GitHub Statistics
-![Rio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskndrio&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🎯 Featured Project
-[![Portfolio Website](https://github-readme-stats.netlify.app/api/pin/?username=iskndrio&repo=portfolio-website)](https://iskndrio.netlify.app)
-
----
-
-✨ *Always learning, always improving.*
+## 🔥 Current Focus
+```js
+const rio = {
+  code: ["JavaScript", "PHP"],
+  frameworks: ["React", "Laravel"],
+  database: ["MySQL"],
+  challenge: "Building scalable fullstack apps 🚀"
+}
