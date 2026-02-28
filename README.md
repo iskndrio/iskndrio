@@ -19,15 +19,14 @@ Turning ideas into powerful digital experiences. 🚀
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,postgresql,supabase" />
+  <img src="https://skillicons.dev/icons?i=laravel,php" />
 </p>
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postgresql,supabase" />
 </p>
 
----
 
 ## 📊 GitHub Activity
 
