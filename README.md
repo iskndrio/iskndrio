@@ -40,15 +40,3 @@ Turning ideas into powerful digital experiences. 🚀
 </p>
 
 ---
-
-## 🔥 Current Focus
-
-```js
-const rio = {
-  role: "Fullstack Developer",
-  frontend: ["React", "JavaScript", "Tailwind"],
-  backend: ["Laravel", "PHP", "Node.js"],
-  database: ["MySQL"],
-  currentlyLearning: ["System Design", "Clean Architecture"],
-  challenge: "Building scalable web apps 🚀"
-}
