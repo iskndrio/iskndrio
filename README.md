@@ -24,7 +24,7 @@ Turning ideas into powerful digital experiences. 🚀
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postgre,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postgresql,supabase" />
 </p>
 
 ---
