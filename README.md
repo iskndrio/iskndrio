@@ -1,11 +1,10 @@
-<h1 align="left">🪐 Me:</h1>
+<h1 align="left">🪐 Hi:</h1>
 
 ---
 
-Hello there, I'm **Rio Iskandar** 👋  
+Hello there, I'm **Rio** 👋  
 I'm a fullstack web developer.  
-Interested in backend, frontend & system architecture.  
-I use **Laravel, React & PHP** daily and explore new tech for hobby projects.  
+Interested in backend, frontend.  
 Turning ideas into powerful digital experiences. 🚀  
 
 ---
