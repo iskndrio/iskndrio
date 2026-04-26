@@ -18,7 +18,7 @@ Turning ideas into powerful digital experiences. 🚀
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,filamentphp" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,filamentphp,next,nuxt,node,express" />
 </p>
 
 ### 🗄️ Database & Tools
