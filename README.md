@@ -13,7 +13,7 @@ Turning ideas into powerful digital experiences. 🚀
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,tailwind,html,css,bootstrap" />
 </p>
 
 ### ⚙️ Backend
